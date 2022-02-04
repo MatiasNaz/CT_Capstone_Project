@@ -38,10 +38,10 @@ function ProductCTA() {
               sx={{ maxWidth: 400 }}
             >
               <Typography variant="h2" component="h2" gutterBottom>
-                Feeling adventurous?
+                Want to learn more?
               </Typography>
               <Typography variant="h5">
-                Sign up for our curated recommendations made just for you.
+                Sign up for newsletter for better tips on everything mindfulness.
               </Typography>
               <TextField
                 noBorder
@@ -79,7 +79,7 @@ function ProductCTA() {
           />
           <Box
             component="img"
-            src="https://images.unsplash.com/photo-1527853787696-f7be74f2e39a?auto=format&fit=crop&w=750&q=80"
+            src="https://source.unsplash.com/aN-zGYlxiCI"
             alt="call to action"
             sx={{
               position: "absolute",

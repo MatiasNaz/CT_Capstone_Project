@@ -4,7 +4,7 @@ import Typography from "../Typography";
 import ProductHeroLayout from "./ProductHeroLayout";
 
 const backgroundImage =
-  "https://images.unsplash.com/photo-1534854638093-bada1813ca19?auto=format&fit=crop&w=1400&q=80";
+  "https://source.unsplash.com/NTyBbu66_SI";
 
 export default function ProductHero() {
   return (
@@ -22,7 +22,7 @@ export default function ProductHero() {
         alt="increase priority"
       />
       <Typography color="inherit" align="center" variant="h2" marked="center">
-        Upgrade Your Mood
+        Welcome to +Mindful!
       </Typography>
       <Typography
         color="inherit"
@@ -30,7 +30,7 @@ export default function ProductHero() {
         variant="h5"
         sx={{ mb: 4, mt: { sx: 4, sm: 10 } }}
       >
-        Enjoy music curated to match your local weather as a backdrop.
+        Breathe. Relax. Enjoy.
       </Typography>
       <Button
         color="secondary"

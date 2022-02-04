@@ -81,7 +81,7 @@ function ProductHowItWorks() {
                   sx={image}
                 />
                 <Typography variant="h5" align="center">
-                  Let it do it's math and magic.
+                  Let it do it's magic. Our app helps you become more +Mindful!
                 </Typography>
               </Box>
             </Grid>
